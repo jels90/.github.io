@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+![TryHackMe1](https://user-images.githubusercontent.com/98351643/152192919-b8d41be4-116b-47b2-9ace-75986edf770a.jpg)
+![TryHackMe2](https://user-images.githubusercontent.com/98351643/152192941-1c259319-da70-4c07-ad2e-ab9ccc4f0ae1.jpg)
+![TryHackMe3](https://user-images.githubusercontent.com/98351643/152192957-d0b2269f-d39b-46df-9e22-133c00342395.jpg)
 
-You can use the [editor on GitHub](https://github.com/jels90/.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jels90/.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For this first room on TryHackMe, I read about the basics of Cyber Security and the different career paths in the field. There are many different careers in the Cyber Security field such as penetration testers, security anaylsts, and incident responders. Security anaylsts monitors the organizations systems and detect if there is an attack. An incident responder will figure out how the attack happened. 
