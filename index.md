@@ -1,4 +1,5 @@
 ![TryHackMe Common Attacks](https://user-images.githubusercontent.com/98351643/153657413-79e37be1-0869-4656-a7df-0dd1fe08bfc1.jpg)
+Feb 11 2022
 
 In this weeks TryHackMe room (Common Attacks), I went over many different ways our data can be stolen and how are computer can be compromised. Social engineering/phishing are two big ways attackers can steal your information. If an email looks suspicious, do not click on links and do not respond with personal information. There are a few different ways to tell if an email is a phishing scam or legit. To keep our accounts secure, it's recommended to use a password manager. Reusing the same password for multiple accounts, makes your accounts more vulnerable to attacks. It's best to have long and nonsensical passwords. You should not be able to memorize all your passwords. To keep your computer safe make sure your PC is up to date on patches and anit virus software. 
 
