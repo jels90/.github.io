@@ -21,13 +21,6 @@ In this TryHackMe room, I leanred about OSINT and how to go about finding inform
 
 
 
-
-
-
-
-
-
-
 ![TryHackMe Common Attacks](https://user-images.githubusercontent.com/98351643/153657413-79e37be1-0869-4656-a7df-0dd1fe08bfc1.jpg)
 Feb 11 2022
 
