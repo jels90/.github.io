@@ -1,3 +1,30 @@
+![Complete](https://user-images.githubusercontent.com/98351643/154769864-866cfb2c-562a-4ae7-a383-55d82447d992.jpg)
+
+Week 4 Feb 18 2022
+
+In this TryHackMe room, I leanred about OSINT and how to go about finding information about websites. Recommended websites included lookup.icann.org, archive.org and viewdns.info. I was able to find IP addresses, nameservers, and overall history of the website. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![TryHackMe Common Attacks](https://user-images.githubusercontent.com/98351643/153657413-79e37be1-0869-4656-a7df-0dd1fe08bfc1.jpg)
 Feb 11 2022
 
