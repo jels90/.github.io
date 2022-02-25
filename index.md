@@ -1,3 +1,33 @@
+Week 5 Feb 25 2022
+Mobile Malware Analysis
+
+In the Mobile Malware Analysis room, I used a virtual machine to use the MOBsf tool to find information about a file. With MOBsf, I was able to see permissions, the hash, and security threats. I also used VirusTotal.com for more information about the file such as the history and type of file as well as comments from the community. With these tools, I was asked to find package names, SHA-1 signatures and name of the sample. The first file that was anaylzed was malware and the second was Pegasus. 
+
+
+
+![THM](https://user-images.githubusercontent.com/98351643/155806610-340bd5f1-83d9-4b9f-8d58-2cd495a01f86.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Week 4 Feb 18 2022
 WebOSINT
 
