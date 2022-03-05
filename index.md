@@ -1,3 +1,25 @@
+Week 6 March 5th 2022
+Encryption - Crypto 101
+
+In this TryHackMe room, I learned about symmetric encryption and asymmetric encryption. Symmetric encryption uses the same key to encrypt and decrypt data, while asymmetric encryption uses a separate key for encrypting and decrypting. The room also briefly went over the Modulo operator and I had to use Python to find the answer. Another cool thing we went over was certificates and had to check the certificate for the TryHackMe website. 
+
+
+![1](https://user-images.githubusercontent.com/98351643/156900449-f186843a-90b5-4d4f-9c0a-4a6aa8f470ce.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Week 5 Feb 25 2022
 Mobile Malware Analysis
 
