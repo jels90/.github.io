@@ -1,3 +1,19 @@
+Week 7 March 12th 2022
+Keybase Lab
+
+After downloading Keybase for Windows, my partner and I encrypted messages and decrypted them. I sent a decrypted message to my partner and my partner sent one back. I had to download the Saltpack file and drag it into the decryption part. It gave me .txt file I was able to open in Notepad and view the message. It was pretty entertaining receiving and sending encrypted messages. 
+
+![Encryption](https://user-images.githubusercontent.com/98351643/158030236-f77a8912-eda1-4a70-8248-b85538506040.jpg)
+
+
+
+
+
+
+
+
+
+
 Week 6 March 5th 2022
 Encryption - Crypto 101
 
