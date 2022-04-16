@@ -1,3 +1,21 @@
+Week 12 April 16th 2022
+TryHackMe Kenobi
+
+In this room, I used the Linux terminal to gain information about Kenobi's machine. First I used Nmap to see how many ports were open and then used the SMBclient. I had to find the version of ProFTPd and find the exploits for that verison. I found Kenobi's private key and moved it and mounted it and found the flag in the user.txt file. Eventually, I was able to gain root access in Kenobi's machine and find the flag in the root.txt file. 
+
+![Kenobi TryHackMe](https://user-images.githubusercontent.com/98351643/163690751-c3849168-59fa-4fde-bb3b-0fce4264f3a0.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
 Week 7 March 12th 2022
 Keybase Lab
 
