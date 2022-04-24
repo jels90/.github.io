@@ -1,3 +1,20 @@
+Week 13 April 23rd 2022
+TryHackMe Wifi Hacking 101
+
+In this room, I learned about SSIDs, ESSIDs, BSSIDs and the different passwords you can use for your wifi networks (such as WPA2). I used the Aircrack-ng suite on Kali Linux VM and found the different flags and commands to use. I used a wordlist "rockyou.txt" to help find the possible password in the .cap file that was given by using the BSSID.
+
+![Wifi Hacking 101](https://user-images.githubusercontent.com/98351643/164953073-4dc5b66a-6b60-4d89-bd8c-d4a39e849a7b.JPG)
+
+
+
+
+
+
+
+
+
+
+
 Week 12 April 16th 2022
 TryHackMe Kenobi
 
