@@ -1,3 +1,21 @@
+Week 15 May 7th 2022
+TryHackMe Investigating Windows
+
+In this weeks TryHackMe room, I explored a little bit of Windows. I found the version and year of the machine and when the users last logged into the machine. I checked which users had admin priviledges and explored the event viewer and windows firewall. I was able to find the date the compromise took place and when the attacker assigned special priviledges to their login. 
+
+![TryHackMe](https://user-images.githubusercontent.com/98351643/167273187-d7fd9a55-78d7-456c-bd62-6d1058f03654.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
 Week 13 April 23rd 2022
 TryHackMe Wifi Hacking 101
 
