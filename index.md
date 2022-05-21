@@ -1,3 +1,18 @@
+Week 9 Lab May 21st 2022
+TryHackMe Startup
+
+In this lab, I used a few different tools to find the secret recipe and contents of text files. At the beginning, I had to use Nmap and found an anonymous FTP login. Once I had access to FTP, I found that there were a few files I could explore. After doing some recon, I was able to access the file recipe.txt which gave me my first answer. After, I used Wireshark to open a "suspicious" .pcapng file. Eventually I was able to access user.txt which gave me my flag. At the end I was able to access Lennie's home directory and view root.txt for the final flag. 
+
+
+
+![Startup](https://user-images.githubusercontent.com/98351643/169671271-cdf5503d-b266-43d2-b6a0-eae80de389b2.JPG)
+
+
+
+
+
+
+
 Week 15 May 7th 2022
 TryHackMe Investigating Windows
 
